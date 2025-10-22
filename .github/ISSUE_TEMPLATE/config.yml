@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email Support
+    url: https://www.dh-electronics.com/support
+    about: Please contact support via email instead of opening an issue.
